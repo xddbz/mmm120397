@@ -1,1 +1,1 @@
-test test
+vless://9AbgU0zed1WNQk@ny.rvpn.online:443?security=reality&sni=onlycats.photos&fp=chrome&pbk=zbf5rPyp7mZcS0nErBy_AzMdQUrihKUsMIvBmJroFTY&sid=7fedb1c0&type=tcp&flow=xtls-rprx-vision&encryption=none#New%20Jersey%20(R-VPN)
